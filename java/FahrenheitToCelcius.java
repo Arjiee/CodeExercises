@@ -8,7 +8,7 @@ public class FahrenheitToCelcius {
         double fahrenheit = scanner.nextDouble();
 
         double celsius = (fahrenheit - 32) * 5 / 9; // Convert to Celsius
-        
+
         String formattedCelsius = String.format("%.2f", celsius); // Format to 2 decimal places
 
         System.out.println(" Temperature in Celsius: " + formattedCelsius + "°C");

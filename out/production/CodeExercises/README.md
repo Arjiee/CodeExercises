@@ -1,2 +1,0 @@
-# Tesda
-Git Practice
