@@ -28,6 +28,7 @@ public class PracticeArray {
             } else {
                 System.out.println("Invalid input");
             }
+            input.close();
         }
     }
 

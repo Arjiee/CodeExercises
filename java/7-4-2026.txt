@@ -1,0 +1,4 @@
+ENCAPSULATION
+
+bundling data and methods together to form a single unit. --class
+
